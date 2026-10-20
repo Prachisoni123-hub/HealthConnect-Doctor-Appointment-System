@@ -6,13 +6,11 @@ and managing healthcare interactions.
 
 ## Tech Stack
 
-- Frontend: React.js, Tailwind CSS
+- Frontend: HTML5, CSS3, JavaScript
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Authentication: JWT
-- Cloud Storage: Cloudinary
 - Payment Gateway: Razorpay
-- Deployment: Vercel + Render
 
 ## 🔑 Key Features
 
